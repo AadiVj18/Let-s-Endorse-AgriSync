@@ -31,7 +31,7 @@
 
 ## 🔗Links
 
-- [GitHub Repository]([https://github.com/justaskulkarni/AgriSync-JPMC_CFG.git](https://github.com/AadiVj18/Let-s-Endorse-AgriSync))
+- [GitHub Repository](https://github.com/AadiVj18/Let-s-Endorse-AgriSync)
 - [Demo Video](https://drive.google.com/drive/folders/1NLTDlZRaty8-WZiEGGM_bzh9SIIN-kf2)
 
 
