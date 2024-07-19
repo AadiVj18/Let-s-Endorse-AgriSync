@@ -1,7 +1,7 @@
 
 
 <div align="center">
-   <strong>AgriSync</strong> <br> <br>
+   <strong>Let's Endorse / AgriSync</strong> <br> <br>
   
 </div>
 <hr>
